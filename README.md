@@ -1,1 +1,1 @@
-https://github.com/jvvaccari/jvvaccari.github.io.git
+https://jvvaccari.github.io/
